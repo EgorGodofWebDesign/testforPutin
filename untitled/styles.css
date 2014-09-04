@@ -22,6 +22,15 @@ p.headersign{
 img.egor{
     margin-left: 160px;
     cursor: pointer;
+}
+
+img {
+    border:1px solid transparent;
+
+}
+img:hover{
+    border:4px solid #E23E3E;
+    border-radius: 40px;
 
 }
 img.Dima{
